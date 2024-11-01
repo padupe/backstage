@@ -1,5 +1,25 @@
 # @backstage/cli
 
+## 0.29.0-next.2
+
+### Minor Changes
+
+- bc47b17: **BREAKING**: Updates ESLint config to ignore all generated source code under `src/**/generated/**/*.ts`.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.7.0
+  - @backstage/cli-common@0.1.15-next.0
+  - @backstage/cli-node@0.2.10-next.0
+  - @backstage/config@1.2.0
+  - @backstage/config-loader@1.9.2-next.0
+  - @backstage/errors@1.2.4
+  - @backstage/eslint-plugin@0.1.10
+  - @backstage/integration@1.15.1
+  - @backstage/release-manifests@0.0.11
+  - @backstage/types@1.1.1
+
 ## 0.29.0-next.1
 
 ### Minor Changes
